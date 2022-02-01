@@ -4,7 +4,7 @@ This project uses React + TailwindCSS and fetch images from the Pixabay
 
 ## Set .env
 
-Before using this project is important to set the .env file, you can run:
+Before using this project it's important to set the .env file, you can run:
 
 ### `cp .env.example .env`
 
